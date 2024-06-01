@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+This isn't my main account, I mainly just use this for minecraft-related stuff.
 <!--
 **ice45core0/ice45core0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
